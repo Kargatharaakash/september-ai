@@ -1,4 +1,4 @@
-# August.ai - Health Assistant Mobile App
+# September.ai - Health Assistant Mobile App
 
 A React Native Expo mobile application for health assistance featuring a chat interface powered by Groq LLM and a prescription reader using OCR.space API.
 
@@ -225,7 +225,6 @@ To set up EAS for the first time:
 
 ## License
 
-This project is proprietary and confidential.
 
 ## Acknowledgements
 
